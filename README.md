@@ -11,5 +11,5 @@ pip install pdf2image
 # How to run?
 
 ```bash
-python ppt_to_img.py test.pptx
+python main.py test.pptx
 ```
